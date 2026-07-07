@@ -207,11 +207,22 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "263853de24284a20",
   "lastOpenFiles": [
+    "02_Templates/Template_Domain.md",
+    "02_Templates/Template_Requirement.md",
+    "02_Templates/Template_Concept.md",
+    "02_Templates/Template_ADR.md",
+    "02_Templates/Template_Entity.md",
+    "02_Templates/АВТО - СОЗДАНИЕ файла с КОДОМ из БУФЕРА 12.2025.bat",
+    "03_System/scripts/backup.ps1",
+    "03_System/scripts/Текстовый документ.txt",
+    "README.md",
     "Добро пожаловать.md",
     "02_Templates",
     "01_Knowledge",
