@@ -1,0 +1,9 @@
+﻿{
+  "templates": {
+    "Entity": "Template_Entity.md",
+    "ADR": "Template_ADR.md",
+    "Concept": "Template_Concept.md",
+    "Requirement": "Template_Requirement.md",
+    "Domain": "Template_Domain.md"
+  }
+}

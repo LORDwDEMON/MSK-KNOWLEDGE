@@ -1,4 +1,4 @@
-﻿---
+---
 uid: "ADR-{{tp.file.creation_date()}}"
 title: "{{title}}"
 type: "ADR"
