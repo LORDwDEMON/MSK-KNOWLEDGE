@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd2b0780b396a52a",
+        "id": "6b51c003ac86fc44",
         "type": "tabs",
         "children": [
           {
-            "id": "a0ab8cbc2420b384",
+            "id": "b0c1088932ddb3a7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -212,10 +212,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13079290671ce489",
+  "active": "b0c1088932ddb3a7",
   "lastOpenFiles": [
-    "02_Templates/Template_Requirement.md",
+    "00_Dashboard/АВТО - СОЗДАНИЕ файла с КОДОМ из БУФЕРА 12.2025.bat",
+    "01_Knowledge/Пользователь.md",
     "02_Templates/Template_Entity.md",
+    "02_Templates/Template_Requirement.md",
     "02_Templates/Template_Domain.md",
     "02_Templates/Template_Concept.md",
     "02_Templates/Template_ADR.md",

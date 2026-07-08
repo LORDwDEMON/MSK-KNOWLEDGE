@@ -18,7 +18,7 @@
         "chooseFromSubfolders": false
       },
       "appendLink": false,
-      "openFile": false,
+      "openFile": true,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
@@ -26,7 +26,8 @@
         "focus": true
       },
       "fileExistsBehavior": {
-        "kind": "prompt"
+        "kind": "apply",
+        "mode": "appendBottom"
       }
     },
     {
@@ -150,7 +151,7 @@
   "persistInputPromptDrafts": true,
   "useSelectionAsCaptureValue": true,
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "02_Templates",
   "announceUpdates": "major",
   "version": "2.12.3",
   "globalVariables": {},
