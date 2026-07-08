@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Templates/Template_Concept.md",
+                "file": "02_Templates/Template_Requirement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template_Concept"
+              "title": "Template_Requirement"
             }
           }
         ]
@@ -198,21 +198,21 @@
   },
   "active": "9f1ff6d621225bb9",
   "lastOpenFiles": [
-    "создайте ссылку.md",
-    "Первая.md",
+    "02_Templates/Template_Entity.md",
+    "02_Templates/Template_Domain.md",
+    "02_Templates/Template_Concept.md",
     "02_Templates/Template_ADR.md",
+    "README.md",
     "Добро пожаловать.md",
     "02_Templates/Default.md",
+    "создайте ссылку.md",
+    "Первая.md",
     "02_Templates/Templater_config.json",
     "Без названия.md",
-    "02_Templates/Template_Domain.md",
     "02_Templates/Template_Requirement.md",
-    "02_Templates/Template_Concept.md",
-    "02_Templates/Template_Entity.md",
     "02_Templates/АВТО - СОЗДАНИЕ файла с КОДОМ из БУФЕРА 12.2025.bat",
     "03_System/scripts/backup.ps1",
     "03_System/scripts/Текстовый документ.txt",
-    "README.md",
     "02_Templates",
     "01_Knowledge",
     "00_Dashboard",

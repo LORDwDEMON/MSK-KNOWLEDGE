@@ -1,4 +1,4 @@
-﻿---
+---
 uid: "CON-{{date:YYYYMMDD}}-{{tp.file.creation_date()}}"
 title: "{{title}}"
 type: "Concept"

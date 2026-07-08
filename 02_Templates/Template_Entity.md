@@ -1,4 +1,4 @@
-﻿---
+---
 uid: "ENT-{{date:YYYYMMDD}}-{{tp.file.creation_date()}}"
 title: "{{title}}"
 type: "Entity"

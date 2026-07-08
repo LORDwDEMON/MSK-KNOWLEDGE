@@ -1,4 +1,4 @@
-﻿---
+---
 uid: "DOM-{{title}}"
 title: "{{title}}"
 type: "Domain"
