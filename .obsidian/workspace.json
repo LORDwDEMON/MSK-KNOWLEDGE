@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b3b3fbaa230b89c4",
+        "id": "bd2b0780b396a52a",
         "type": "tabs",
         "children": [
           {
-            "id": "9f1ff6d621225bb9",
+            "id": "a0ab8cbc2420b384",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Templates/Template_Requirement.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Template_Requirement"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -174,13 +170,33 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "764f67b7c07195ba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "13079290671ce489",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +212,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f1ff6d621225bb9",
+  "active": "13079290671ce489",
   "lastOpenFiles": [
+    "02_Templates/Template_Requirement.md",
     "02_Templates/Template_Entity.md",
     "02_Templates/Template_Domain.md",
     "02_Templates/Template_Concept.md",
@@ -209,7 +226,6 @@
     "Первая.md",
     "02_Templates/Templater_config.json",
     "Без названия.md",
-    "02_Templates/Template_Requirement.md",
     "02_Templates/АВТО - СОЗДАНИЕ файла с КОДОМ из БУФЕРА 12.2025.bat",
     "03_System/scripts/backup.ps1",
     "03_System/scripts/Текстовый документ.txt",

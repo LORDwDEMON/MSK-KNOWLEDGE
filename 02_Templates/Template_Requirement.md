@@ -1,4 +1,4 @@
-﻿---
+---
 uid: "REQ-{{date:YYYYMMDD}}-{{tp.file.creation_date()}}"
 title: "{{title}}"
 type: "Requirement"
