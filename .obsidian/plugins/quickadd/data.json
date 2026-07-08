@@ -4,16 +4,132 @@
       "id": "3cbf43ce-ac2b-4ccb-9ae8-e6468127169b",
       "name": "Создать Entity",
       "type": "Template",
-      "command": false,
-      "templatePath": "",
+      "command": true,
+      "templatePath": "02_Templates/Template_Entity.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "94a885d5-4bde-4eaa-b14b-6608bbad1cd2",
+      "name": "Создать ADR",
+      "type": "Template",
+      "command": true,
+      "templatePath": "02_Templates/Template_ADR.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
       },
       "folder": {
         "enabled": false,
         "folders": [],
-        "chooseWhenCreatingNote": false,
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "579748d8-5a98-466e-8c7e-6b89b2c85228",
+      "name": "Создать Concept",
+      "type": "Template",
+      "command": true,
+      "templatePath": "02_Templates/Template_Concept.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "125adad3-60f4-49e3-84ba-9eb1a6067262",
+      "name": "Создать Requirement",
+      "type": "Template",
+      "command": true,
+      "templatePath": "02_Templates/Template_Requirement.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "1188527c-e223-4dc3-9329-858b28512909",
+      "name": "Создать Domain",
+      "type": "Template",
+      "command": true,
+      "templatePath": "02_Templates/Template_Domain.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
