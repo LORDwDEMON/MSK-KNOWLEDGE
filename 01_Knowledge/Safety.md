@@ -1,22 +1,23 @@
 ---
-uid: "DOM-Safety"
-title: "Safety"
-type: "Domain"
-domain: "Safety"
-lifecycle_stage: "APPROVED"
+uid: DOM-Safety
+title: Safety
+type: Domain
+domain: Safety
+lifecycle_stage: APPROVED
 kml: 4
 kqc: 3
-version: "1.0.0"
-created: "2026-07-10"
-updated: "2026-07-10"
+version: 1.0.0
+created: 2026-07-10
+updated: 2026-07-10
 review_date: "{{date + 365 days}}"
 source: ""
-tags: [Domain]
-relations: []
+tags:
+  - Domain
+relations:
 change_log:
-  - date: "2026-07-10"
-    version: "1.0.0"
-    description: "Создано"
+  - date: 2026-07-10
+    version: 1.0.0
+    description: Создано
 ---
 
 # Домен: Safety

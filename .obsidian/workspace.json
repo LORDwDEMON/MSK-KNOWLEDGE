@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e42e6a357333a1bd",
+        "id": "be7371a578a1decb",
         "type": "tabs",
         "children": [
           {
-            "id": "d05b355dad20a59f",
+            "id": "c64679d37bf77794",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Knowledge/PPE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PPE"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -217,16 +213,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0cc952f2ccc0588",
+  "active": "c64679d37bf77794",
   "lastOpenFiles": [
+    "01_Knowledge/Workplace.md",
+    "ENT-HR-004_Organization.md",
+    "DOM-RISK.md",
+    "DOM-HR.md",
+    "01_Knowledge/Incident.md",
+    "01_Knowledge/HR.md",
     "01_Knowledge/Training.md",
     "01_Knowledge/Safety.md",
-    "01_Knowledge/HR.md",
+    "01_Knowledge/Risk.md",
+    "01_Knowledge/PPE.md",
     "01_Knowledge/ENT-HR-001.md",
     "00_Dashboard/Home.md",
     "00_Dashboard/Daily/2026-07-09.md",
-    "01_Knowledge/Incident.md",
-    "01_Knowledge/Workplace.md",
     "01_Knowledge/Organization.md",
     "01_Knowledge/Employee.md",
     "01_Knowledge/Position.md",
@@ -235,8 +236,6 @@
     "01_Knowledge/ENT-HR-003.md",
     "01_Knowledge/ENT-HR-004.md",
     "01_Knowledge/Architecture.md",
-    "01_Knowledge/Risk.md",
-    "01_Knowledge/PPE.md",
     "02_Templates/Template_Domain.md",
     "00_Dashboard/DOM-HR.md",
     "00_Dashboard/Daily",
@@ -244,9 +243,6 @@
     "02_Templates/Template_Daily.md",
     "02_Templates/Template_ADR.md",
     "02_Templates/Default.md",
-    "01_Knowledge/Пользователь.md",
-    "02_Templates/Template_Concept.md",
-    "02_Templates/Template_Entity.md",
     "00_Dashboard/АВТО - СОЗДАНИЕ файла с КОДОМ из БУФЕРА 12.2025.bat",
     "02_Templates/Templater_config.json",
     "02_Templates/АВТО - СОЗДАНИЕ файла с КОДОМ из БУФЕРА 12.2025.bat",
