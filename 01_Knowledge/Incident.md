@@ -1,8 +1,8 @@
 ---
-uid: ENT-20260710-{{tp.file.creation_date()}}
-title: ENT-HR-001
+uid: ENT-SAFETY-001
+title: Incident
 type: Entity
-domain: HR
+domain: "{{Safety}}"
 lifecycle_stage: DRAFT
 kml: 0
 kqc: 0
@@ -19,12 +19,11 @@ change_log:
     description: Создано
 ---
 
-# ENT-HR-001
+# Incident
 
 ## Назначение
 
-Employee (Сотрудник)
-
+Инцидент
 ## Атрибуты
 
 <!-- Перечислите ключевые атрибуты сущности с типом и описанием -->

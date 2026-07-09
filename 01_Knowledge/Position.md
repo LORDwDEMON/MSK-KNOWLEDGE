@@ -1,8 +1,8 @@
 ---
-uid: ENT-20260710-{{tp.file.creation_date()}}
-title: ENT-HR-001
+uid: ENT-HR-003
+title: Position
 type: Entity
-domain: HR
+domain: "{{HR}}"
 lifecycle_stage: DRAFT
 kml: 0
 kqc: 0
@@ -19,11 +19,11 @@ change_log:
     description: Создано
 ---
 
-# ENT-HR-001
+# Position
 
 ## Назначение
 
-Employee (Сотрудник)
+Должность
 
 ## Атрибуты
 
@@ -50,3 +50,5 @@ Employee (Сотрудник)
 ## История изменений
 
 <!-- Автоматически заполняется -->
+
+[^1]: 

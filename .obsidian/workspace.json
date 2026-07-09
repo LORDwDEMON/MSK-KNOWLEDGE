@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2ab095710ef1e945",
+        "id": "736966fa24a11dd6",
         "type": "tabs",
         "children": [
           {
-            "id": "ebcc9d75b2dda494",
+            "id": "449e28d32a49fe1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/Safety.md",
+                "file": "01_Knowledge/ENT-HR-001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Safety"
-            }
-          },
-          {
-            "id": "85916d59b3b6fb6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Knowledge/Safety.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Safety"
+              "title": "ENT-HR-001"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,22 +217,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85916d59b3b6fb6e",
+  "active": "d0cc952f2ccc0588",
   "lastOpenFiles": [
+    "01_Knowledge/ENT-HR-001.md",
+    "00_Dashboard/Home.md",
+    "01_Knowledge/Incident.md",
+    "01_Knowledge/Workplace.md",
+    "01_Knowledge/Organization.md",
+    "01_Knowledge/Employee.md",
+    "01_Knowledge/Position.md",
+    "01_Knowledge/Department.md",
+    "01_Knowledge/Safety.md",
     "01_Knowledge/HR.md",
     "01_Knowledge/ENT-HR-002.md",
     "01_Knowledge/ENT-HR-003.md",
     "01_Knowledge/ENT-HR-004.md",
-    "01_Knowledge/ENT-HR-001.md",
     "01_Knowledge/Architecture.md",
     "01_Knowledge/Risk.md",
     "01_Knowledge/PPE.md",
     "01_Knowledge/Training.md",
-    "01_Knowledge/Safety.md",
     "02_Templates/Template_Domain.md",
     "00_Dashboard/DOM-HR.md",
     "00_Dashboard/Daily/2026-07-09.md",
-    "00_Dashboard/Home.md",
     "00_Dashboard/Daily",
     "00_Dashboard/Новая папка",
     "02_Templates/Template_Daily.md",
@@ -256,14 +247,8 @@
     "01_Knowledge/Пользователь.md",
     "02_Templates/Template_Concept.md",
     "02_Templates/Template_Entity.md",
-    "02_Templates/Template_Requirement.md",
     "00_Dashboard/АВТО - СОЗДАНИЕ файла с КОДОМ из БУФЕРА 12.2025.bat",
-    "README.md",
-    "Добро пожаловать.md",
-    "создайте ссылку.md",
-    "Первая.md",
     "02_Templates/Templater_config.json",
-    "Без названия.md",
     "02_Templates/АВТО - СОЗДАНИЕ файла с КОДОМ из БУФЕРА 12.2025.bat",
     "03_System/scripts/backup.ps1",
     "03_System/scripts/Текстовый документ.txt",

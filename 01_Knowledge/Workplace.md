@@ -1,8 +1,8 @@
 ---
-uid: ENT-20260710-{{tp.file.creation_date()}}
-title: ENT-HR-001
+uid: ENT-SAFETY-002
+title: Workplace
 type: Entity
-domain: HR
+domain: "{{Safety}}"
 lifecycle_stage: DRAFT
 kml: 0
 kqc: 0
@@ -19,11 +19,11 @@ change_log:
     description: Создано
 ---
 
-# ENT-HR-001
+# Workplace
 
 ## Назначение
 
-Employee (Сотрудник)
+Рабочее место
 
 ## Атрибуты
 
