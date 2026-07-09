@@ -167,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -177,8 +177,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -214,6 +214,7 @@
   },
   "active": "b0c1088932ddb3a7",
   "lastOpenFiles": [
+    "00_Dashboard/Home.md",
     "00_Dashboard/АВТО - СОЗДАНИЕ файла с КОДОМ из БУФЕРА 12.2025.bat",
     "01_Knowledge/Пользователь.md",
     "02_Templates/Template_Entity.md",
@@ -235,7 +236,6 @@
     "01_Knowledge",
     "00_Dashboard",
     "03_System/scripts",
-    "03_System/config",
-    "03_System"
+    "03_System/config"
   ]
 }
