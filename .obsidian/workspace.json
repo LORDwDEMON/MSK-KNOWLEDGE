@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "736966fa24a11dd6",
+        "id": "f980ee569a7a68da",
         "type": "tabs",
         "children": [
           {
-            "id": "449e28d32a49fe1a",
+            "id": "d0fd0eb9cdf1b84f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/ENT-HR-001.md",
+                "file": "01_Knowledge/Training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENT-HR-001"
+              "title": "Training"
             }
           }
         ]
@@ -217,10 +217,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0cc952f2ccc0588",
+  "active": "d0fd0eb9cdf1b84f",
   "lastOpenFiles": [
+    "01_Knowledge/Training.md",
     "01_Knowledge/ENT-HR-001.md",
+    "01_Knowledge/HR.md",
     "00_Dashboard/Home.md",
+    "00_Dashboard/Daily/2026-07-09.md",
     "01_Knowledge/Incident.md",
     "01_Knowledge/Workplace.md",
     "01_Knowledge/Organization.md",
@@ -228,17 +231,14 @@
     "01_Knowledge/Position.md",
     "01_Knowledge/Department.md",
     "01_Knowledge/Safety.md",
-    "01_Knowledge/HR.md",
     "01_Knowledge/ENT-HR-002.md",
     "01_Knowledge/ENT-HR-003.md",
     "01_Knowledge/ENT-HR-004.md",
     "01_Knowledge/Architecture.md",
     "01_Knowledge/Risk.md",
     "01_Knowledge/PPE.md",
-    "01_Knowledge/Training.md",
     "02_Templates/Template_Domain.md",
     "00_Dashboard/DOM-HR.md",
-    "00_Dashboard/Daily/2026-07-09.md",
     "00_Dashboard/Daily",
     "00_Dashboard/Новая папка",
     "02_Templates/Template_Daily.md",
