@@ -12,8 +12,10 @@
       },
       "folder": {
         "enabled": true,
-        "folders": [],
-        "chooseWhenCreatingNote": true,
+        "folders": [
+          "02_Templates"
+        ],
+        "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
@@ -41,9 +43,9 @@
         "format": "{{VALUE}}"
       },
       "folder": {
-        "enabled": false,
+        "enabled": true,
         "folders": [],
-        "chooseWhenCreatingNote": true,
+        "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
