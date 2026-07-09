@@ -111,8 +111,8 @@ WHERE lifecycle_stage != "ARCHIVED"
 ## 📋 Последние изменения
 
 ```dataview
-TABLE updated, title
+TABLE file.mtime as "Изменено", file.cday as "Создано", title
 FROM "01_Knowledge"
-SORT updated DESC
+SORT file.mtime DESC
 LIMIT 10
 ```
