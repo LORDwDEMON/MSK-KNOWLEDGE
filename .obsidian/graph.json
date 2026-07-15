@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "инструк",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -9,8 +9,8 @@
   "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.7,
-  "nodeSizeMultiplier": 0.738020833333333,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 2.75416666666667,
   "lineSizeMultiplier": 0.661458333333333,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,

@@ -11,10 +11,14 @@
             "id": "22ddbde0ab4bf7dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "01_Knowledge/Workplace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workplace"
             }
           }
         ]
@@ -216,6 +220,7 @@
   "active": "22ddbde0ab4bf7dc",
   "lastOpenFiles": [
     "01_Knowledge/Training.md",
+    "00_Dashboard/Daily/2026-07-09.md",
     "ENT-HR-002_Department.md",
     "01_Knowledge/HR.md",
     "00_Dashboard/Daily/2026-07-15.md",
@@ -235,7 +240,6 @@
     "01_Knowledge/Incident.md",
     "01_Knowledge/Risk.md",
     "01_Knowledge/PPE.md",
-    "00_Dashboard/Daily/2026-07-09.md",
     "01_Knowledge/Position.md",
     "01_Knowledge/ENT-HR-004.md",
     "01_Knowledge/Architecture.md",
