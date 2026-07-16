@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Knowledge/Workplace.md",
+                "file": "00_Dashboard/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workplace"
+              "title": "Home"
             }
           }
         ]
@@ -219,32 +219,33 @@
   },
   "active": "22ddbde0ab4bf7dc",
   "lastOpenFiles": [
-    "01_Knowledge/Training.md",
-    "00_Dashboard/Daily/2026-07-09.md",
-    "ENT-HR-002_Department.md",
-    "01_Knowledge/HR.md",
-    "00_Dashboard/Daily/2026-07-15.md",
-    "01_Knowledge/ENT-HR-003.md",
-    "01_Knowledge/ENT-HR-001.md",
-    "01_Knowledge/Department.md",
-    "01_Knowledge/Пользователь.md",
+    "01_Knowledge/ENT-HR-004.md",
     "00_Dashboard/Home.md",
-    "01_Knowledge/Safety.md",
-    "01_Knowledge/Workplace.md",
-    "01_Knowledge/ENT-HR-002.md",
-    "01_Knowledge/Employee.md",
-    "01_Knowledge/Organization.md",
+    "01_Knowledge/HR.md",
+    "ENT-HR-001_Employee.md",
+    "ENT-HR-002_Department.md",
     "ENT-HR-004_Organization.md",
+    "01_Knowledge/Пользователь.md",
+    "01_Knowledge/ENT-HR-001.md",
+    "01_Knowledge/Employee.md",
+    "Без названия.base",
+    "Без названия.canvas",
+    "00_Dashboard/Daily/2026-07-09.md",
+    "README.md",
     "DOM-RISK.md",
     "DOM-HR.md",
+    "Добро пожаловать.md",
+    "00_Dashboard/Daily/2026-07-15.md",
+    "01_Knowledge/Workplace.md",
+    "01_Knowledge/Training.md",
+    "01_Knowledge/ENT-HR-003.md",
+    "01_Knowledge/Department.md",
+    "01_Knowledge/Safety.md",
+    "01_Knowledge/ENT-HR-002.md",
+    "01_Knowledge/Organization.md",
     "01_Knowledge/Incident.md",
     "01_Knowledge/Risk.md",
     "01_Knowledge/PPE.md",
-    "01_Knowledge/Position.md",
-    "01_Knowledge/ENT-HR-004.md",
-    "01_Knowledge/Architecture.md",
-    "02_Templates/Template_Domain.md",
-    "00_Dashboard/DOM-HR.md",
     "00_Dashboard/Daily",
     "00_Dashboard/Новая папка",
     "00_Dashboard/АВТО - СОЗДАНИЕ файла с КОДОМ из БУФЕРА 12.2025.bat",
@@ -253,7 +254,6 @@
     "03_System/scripts/backup.ps1",
     "03_System/scripts/Текстовый документ.txt",
     "02_Templates",
-    "01_Knowledge",
-    "00_Dashboard"
+    "01_Knowledge"
   ]
 }
